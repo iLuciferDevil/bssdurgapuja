@@ -1,0 +1,31 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/home",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about-us",
+      "destination": "/about-bss",
+      "permanent": true
+    },
+    {
+      "source": "/bss-best-durga-puja-2025-pandal-bengali-rituals-pujo-in-bangalore-most-popular-puja-bengaluru-ramamurthy-nagar-near-orr",
+      "destination": "/sylheti-durga-puja-bangalore",
+      "permanent": true
+    },
+    {
+      "source": "/bss-durga-puja-2026",
+      "destination": "/sylheti-durga-puja-bangalore",
+      "permanent": true
+    },
+    {
+      "source": "/durga-puja-bangalore-2025",
+      "destination": "/sylheti-durga-puja-bangalore",
+      "permanent": true
+    }
+  ]
+}
