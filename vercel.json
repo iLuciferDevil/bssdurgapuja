@@ -22,7 +22,7 @@
     },
     {
       "source": "/gallery/",
-      "destination": "/archive.html",
+      "destination": "/archive/",
       "permanent": true
     },
     {
@@ -54,6 +54,10 @@
   "rewrites": [
     {
       "source": "/assets/archives/:path*",
+      "destination": "https://raw.githubusercontent.com/iLuciferDevil/bssdurgapuja/399ea40d64b080f56a05a7737c9564770a04e3a1/assets/archives/:path*"
+    },
+    {
+      "source": "/archive/assets/archives/:path*",
       "destination": "https://raw.githubusercontent.com/iLuciferDevil/bssdurgapuja/399ea40d64b080f56a05a7737c9564770a04e3a1/assets/archives/:path*"
     }
   ],
