@@ -31,6 +31,16 @@
       "permanent": true
     },
     {
+      "source": "/archive/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/archive/index/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
       "source": "/bss-best-durga-puja-2025-pandal-bengali-rituals-pujo-in-bangalore-most-popular-puja-bengaluru-ramamurthy-nagar-near-or/",
       "destination": "/durga-puja-bangalore-2026/",
       "permanent": true
@@ -39,6 +49,12 @@
       "source": "/bss-best-durga-puja-2022-bengaluru-best-rituals-bengali-barowari-durga-puja-no-membership-required-most-popular-durga-puja-in-bangalore-east/",
       "destination": "/durga-puja-bangalore-2026/",
       "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/assets/archives/:path*",
+      "destination": "https://raw.githubusercontent.com/iLuciferDevil/bssdurgapuja/399ea40d64b080f56a05a7737c9564770a04e3a1/assets/archives/:path*"
     }
   ],
   "cleanUrls": true,
