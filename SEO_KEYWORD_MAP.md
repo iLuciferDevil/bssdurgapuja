@@ -9,7 +9,7 @@ This internal map assigns one primary search intent to each indexable page. New 
 | `/` | BSS Durga Puja | Bengaluru Sreehatta Sammelani, BSS Durga Puja 2026 | Brand and visit | Core homepage |
 | `/durga-puja-bangalore-2026/` | Durga Puja Bangalore 2026 | Durga Puja in Bangalore 2026, dates, venue | Primary discovery | Published |
 | `/sylheti-durga-puja-bangalore/` | Sylheti Durga Puja Bangalore | Bengali Durga Puja Bangalore, BSS culture | Cultural and entity | Published |
-| `/durga-puja-hoodi-whitefield/` | Durga Puja Hoodi and Whitefield | East Bangalore, KR Puram, ITPL | Local discovery | Published; preferred grouped local page |
+| `/durga-puja-hoodi-whitefield/` | Durga Puja Hoodi and Whitefield | East Bangalore, KR Puram, ITPL, Marathahalli | Local discovery and visit planning | Expanded 2026-09-29; preferred grouped local page |
 | `/durga-puja-near-whitefield/` | Durga Puja near Whitefield | Durga Puja near me Whitefield | Local visit | Published; avoid another Whitefield doorway |
 | `/bss-durga-puja-2026-schedule/` | BSS Durga Puja schedule | Ashtami, Navami, Sandhi Puja, programme timings | Planning | Canonical timing source |
 | `/durga-puja-cultural-programmes-bangalore-2026/` | Durga Puja cultural programmes Bangalore | Bengali cultural events, BSS programme | Cultural visit planning | Published 2026-09-29 |
