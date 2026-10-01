@@ -7,7 +7,7 @@ This internal map assigns one primary search intent to each indexable page. New 
 | Canonical page | Primary cluster | Supporting queries | Intent | Status |
 |---|---|---|---|---|
 | `/` | BSS Durga Puja | Bengaluru Sreehatta Sammelani, BSS Durga Puja 2026 | Brand and visit | Core homepage |
-| `/durga-puja-bangalore-2026/` | Durga Puja Bangalore 2026 | Durga Puja in Bangalore 2026, dates, venue | Primary discovery | Published |
+| `/durga-puja-bangalore-2026/` | Durga Puja Bangalore 2026 | Durga Puja in Bangalore 2026, dates, venue, visitor guide | Primary discovery | Expanded 2026-10-01; primary non-brand discovery page |
 | `/sylheti-durga-puja-bangalore/` | Sylheti Durga Puja Bangalore | Bengali Durga Puja Bangalore, BSS culture | Cultural and entity | Published |
 | `/durga-puja-hoodi-whitefield/` | Durga Puja Hoodi and Whitefield | East Bangalore, KR Puram, ITPL, Marathahalli | Local discovery and visit planning | Expanded 2026-09-29; preferred grouped local page |
 | `/durga-puja-near-whitefield/` | Durga Puja near Whitefield | Durga Puja near me Whitefield | Local visit | Published; avoid another Whitefield doorway |
@@ -36,8 +36,8 @@ This internal map assigns one primary search intent to each indexable page. New 
 
 ## Cannibalization rules
 
-- Keep broad Bangalore discovery on `/durga-puja-bangalore-2026/`.
-- Keep the full official timetable and broad date queries on the schedule page; keep Ashtami visit planning on `/ashtami-puja-bangalore-2026/`.
+- Keep broad non-brand Bangalore discovery on `/durga-puja-bangalore-2026/`; do not create another generic “best pandal” or “Durga Puja Bangalore” page.
+- Keep the full official timetable and timing-heavy queries on the schedule page; keep Ashtami visit planning on `/ashtami-puja-bangalore-2026/`.
 - Keep Pushpanjali-only queries on the dedicated Pushpanjali page.
 - Keep Navami visit planning on `/navami-puja-bangalore-2026/`; retain the complete six-day timetable on the schedule page.
 - Keep cultural programme aggregation on `/durga-puja-cultural-programmes-bangalore-2026/`.
