@@ -1,6 +1,6 @@
 # BSS Search Keyword Map
 
-Last updated: 2026-09-30
+Last updated: 2026-10-01
 
 This internal map assigns one primary search intent to each indexable page. New content should strengthen these pages or fill a genuinely distinct intent. Do not create separate thin pages for every nearby locality.
 
@@ -13,6 +13,7 @@ This internal map assigns one primary search intent to each indexable page. New 
 | `/durga-puja-near-whitefield/` | Durga Puja near Whitefield | Durga Puja near me Whitefield | Local visit | Published; avoid another Whitefield doorway |
 | `/bss-durga-puja-2026-schedule/` | BSS Durga Puja schedule | Durga Puja 2026 dates Bangalore, full programme, ritual and cultural timings | Planning | Expanded 2026-09-30; canonical timing source |
 | `/ashtami-puja-bangalore-2026/` | Ashtami Puja Bangalore 2026 | BSS Ashtami schedule, Sandhi Puja Bangalore 2026 | Ashtami day planning | Published 2026-09-30 |
+| `/navami-puja-bangalore-2026/` | Navami Puja Bangalore 2026 | Maha Navami Bangalore, BSS Navami timings | Navami day planning | Published 2026-10-01 |
 | `/durga-puja-cultural-programmes-bangalore-2026/` | Durga Puja cultural programmes Bangalore | Bengali cultural events, BSS programme | Cultural visit planning | Published 2026-09-29 |
 | `/durga-puja-bhog-bangalore/` | Durga Puja Bhog Bangalore | BSS Bhog timings | Food and visit planning | Published; daily 1:30–3:30 PM |
 | `/pushpanjali-timings-bss-durga-puja-2026/` | Pushpanjali timings Bangalore | BSS Pushpanjali 2026 | Ritual planning | Published |
@@ -38,6 +39,7 @@ This internal map assigns one primary search intent to each indexable page. New 
 - Keep broad Bangalore discovery on `/durga-puja-bangalore-2026/`.
 - Keep the full official timetable and broad date queries on the schedule page; keep Ashtami visit planning on `/ashtami-puja-bangalore-2026/`.
 - Keep Pushpanjali-only queries on the dedicated Pushpanjali page.
+- Keep Navami visit planning on `/navami-puja-bangalore-2026/`; retain the complete six-day timetable on the schedule page.
 - Keep cultural programme aggregation on `/durga-puja-cultural-programmes-bangalore-2026/`.
 - Keep Sandhi Puja meaning on the educational page and the confirmed BSS timing on the Ashtami and schedule guides.
 - Combine nearby East Bengaluru localities into one useful guide rather than producing locality doorway pages.
