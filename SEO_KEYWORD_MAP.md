@@ -24,7 +24,7 @@ This internal map assigns one primary search intent to each indexable page. New 
 | `/dhamail-sylheti-tradition/` | Dhamail tradition | Sylheti dance, Dhamail BSS | Cultural education | Published |
 | `/mahalaya-to-bijoya-durga-puja-days/` | Durga Puja days explained | Mahalaya to Bijoya | Festival education | Published |
 | `/why-we-celebrate-durga-puja/` | Why Durga Puja is celebrated | Durga Puja story and meaning | Festival education | Published |
-| `/first-time-durga-puja-bangalore/` | First Durga Puja visit | What to expect at Durga Puja | New visitor help | Published |
+| `/first-time-durga-puja-bangalore/` | First Durga Puja in Bangalore | What to expect at Durga Puja, first-time pandal visit | New visitor help and attendance planning | Expanded 2026-10-02; canonical newcomer guide |
 | `/stories.html` | BSS Puja stories and guides | Durga Puja Bangalore content hub | Content discovery | Published |
 
 ## Supported next opportunities
@@ -44,4 +44,5 @@ This internal map assigns one primary search intent to each indexable page. New 
 - Keep cultural programme aggregation on `/durga-puja-cultural-programmes-bangalore-2026/`.
 - Keep Sandhi Puja meaning on the educational page and the confirmed BSS timing on the Ashtami and schedule guides.
 - Combine nearby East Bengaluru localities into one useful guide rather than producing locality doorway pages.
+- Keep newcomer questions and first-visit planning on `/first-time-durga-puja-bangalore/`; keep broad Bangalore discovery on the primary 2026 guide.
 - Use `/sylheti-durga-puja-bangalore/` for Sylheti and Bengali cultural/entity intent.
