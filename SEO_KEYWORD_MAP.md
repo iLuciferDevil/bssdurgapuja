@@ -1,6 +1,6 @@
 # BSS Search Keyword Map
 
-Last updated: 2026-10-02
+Last updated: 2026-10-03
 
 This internal map assigns one primary search intent to each indexable page. New content should strengthen these pages or fill a genuinely distinct intent. Do not create separate thin pages for every nearby locality.
 
@@ -19,7 +19,7 @@ This internal map assigns one primary search intent to each indexable page. New 
 | `/pushpanjali-timings-bss-durga-puja-2026/` | Pushpanjali timings Bangalore | BSS Pushpanjali 2026 | Ritual planning | Published |
 | `/dandiya-night-whitefield-2026/` | Dandiya night Whitefield 2026 | Dandiya Hoodi, BSS Dandiya | Evening programme | Published |
 | `/sandhi-puja-meaning/` | Sandhi Puja meaning | Sandhi Puja significance | Ritual education | Published; informational intent only |
-| `/dhunuchi-naach-durga-puja/` | Dhunuchi Naach | Dhunuchi competition BSS | Tradition and programme | Published |
+| `/dhunuchi-naach-durga-puja/` | Dhunuchi Naach Bangalore 2026 | Dhunuchi competition BSS, Dhaker Tale Bangalore | Tradition and evening visit planning | Expanded 2026-10-03; canonical Dhunuchi guide |
 | `/sindoor-khela-durga-puja/` | Sindoor Khela Bangalore 2026 | Sindhur Khela Bangalore, BSS Bijoya Dashami schedule | Tradition and Dashami visit planning | Expanded 2026-10-02; canonical Dashami guide |
 | `/dhamail-sylheti-tradition/` | Dhamail tradition | Sylheti dance, Dhamail BSS | Cultural education | Published |
 | `/mahalaya-to-bijoya-durga-puja-days/` | Durga Puja days explained | Mahalaya to Bijoya | Festival education | Published |
@@ -42,6 +42,7 @@ This internal map assigns one primary search intent to each indexable page. New 
 - Keep Navami visit planning on `/navami-puja-bangalore-2026/`; retain the complete six-day timetable on the schedule page.
 - Keep Sindoor/Sindhur Khela and Bijoya Dashami visitor planning on `/sindoor-khela-durga-puja/`; do not create a second Dashami page.
 - Keep cultural programme aggregation on `/durga-puja-cultural-programmes-bangalore-2026/`.
+- Keep Dhunuchi meaning and competition-specific visit planning on `/dhunuchi-naach-durga-puja/`; retain the complete multi-day programme on the cultural guide.
 - Keep Sandhi Puja meaning on the educational page and the confirmed BSS timing on the Ashtami and schedule guides.
 - Combine nearby East Bengaluru localities into one useful guide rather than producing locality doorway pages.
 - Keep newcomer questions and first-visit planning on `/first-time-durga-puja-bangalore/`; keep broad Bangalore discovery on the primary 2026 guide.
