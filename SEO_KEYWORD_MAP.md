@@ -16,7 +16,7 @@ This internal map assigns one primary search intent to each indexable page. New 
 | `/navami-puja-bangalore-2026/` | Navami Puja Bangalore 2026 | Maha Navami Bangalore, BSS Navami timings | Navami day planning | Published 2026-10-01 |
 | `/durga-puja-cultural-programmes-bangalore-2026/` | Durga Puja cultural programmes Bangalore | Bengali cultural events, BSS programme | Cultural visit planning | Published 2026-09-29 |
 | `/durga-puja-bhog-bangalore/` | Durga Puja Bhog Bangalore 2026 | BSS Bhog timing, Bhog Hoodi | Food and afternoon visit planning | Expanded 2026-10-03; canonical Bhog guide |
-| `/pushpanjali-timings-bss-durga-puja-2026/` | Pushpanjali timings Bangalore | BSS Pushpanjali 2026 | Ritual planning | Published |
+| `/pushpanjali-timings-bss-durga-puja-2026/` | Pushpanjali timings Bangalore 2026 | BSS Pushpanjali dates, Pushpanjali Hoodi | Ritual and morning visit planning | Expanded 2026-10-04; canonical Pushpanjali guide |
 | `/dandiya-night-whitefield-2026/` | Dandiya night Whitefield 2026 | Dandiya Hoodi, BSS Dandiya | Evening programme | Published |
 | `/sandhi-puja-meaning/` | Sandhi Puja meaning | Sandhi Puja significance | Ritual education | Published; informational intent only |
 | `/dhunuchi-naach-durga-puja/` | Dhunuchi Naach Bangalore 2026 | Dhunuchi competition BSS, Dhaker Tale Bangalore | Tradition and evening visit planning | Expanded 2026-10-03; canonical Dhunuchi guide |
@@ -38,7 +38,7 @@ This internal map assigns one primary search intent to each indexable page. New 
 
 - Keep broad non-brand Bangalore discovery on `/durga-puja-bangalore-2026/`; do not create another generic “best pandal” or “Durga Puja Bangalore” page.
 - Keep the full official timetable and timing-heavy queries on the schedule page; keep Ashtami visit planning on `/ashtami-puja-bangalore-2026/`.
-- Keep Pushpanjali-only queries on the dedicated Pushpanjali page.
+- Keep Pushpanjali dates, timings, meaning and visitor preparation on `/pushpanjali-timings-bss-durga-puja-2026/`; keep the complete six-day programme on the schedule page.
 - Keep Bhog timing, meaning and afternoon visitor planning on `/durga-puja-bhog-bangalore/`; do not create menu or pass pages until BSS confirms those details.
 - Keep Navami visit planning on `/navami-puja-bangalore-2026/`; retain the complete six-day timetable on the schedule page.
 - Keep Sindoor/Sindhur Khela and Bijoya Dashami visitor planning on `/sindoor-khela-durga-puja/`; do not create a second Dashami page.
