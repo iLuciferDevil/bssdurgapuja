@@ -1,6 +1,6 @@
 # BSS Search Keyword Map
 
-Last updated: 2026-10-04
+Last updated: 2026-10-05
 
 This internal map assigns one primary search intent to each indexable page. New content should strengthen these pages or fill a genuinely distinct intent. Do not create separate thin pages for every nearby locality.
 
@@ -18,7 +18,7 @@ This internal map assigns one primary search intent to each indexable page. New 
 | `/durga-puja-bhog-bangalore/` | Durga Puja Bhog Bangalore 2026 | BSS Bhog timing, Bhog Hoodi | Food and afternoon visit planning | Expanded 2026-10-03; canonical Bhog guide |
 | `/pushpanjali-timings-bss-durga-puja-2026/` | Pushpanjali timings Bangalore 2026 | BSS Pushpanjali dates, Pushpanjali Hoodi | Ritual and morning visit planning | Expanded 2026-10-04; canonical Pushpanjali guide |
 | `/dandiya-night-whitefield-2026/` | Dandiya night Whitefield 2026 | Dandiya Hoodi, BSS Dandiya | Evening programme | Published |
-| `/sandhi-puja-meaning/` | Sandhi Puja meaning | Sandhi Puja significance | Ritual education | Published; informational intent only |
+| `/sandhi-puja-meaning/` | Sandhi Puja meaning | Sandhi Puja significance, BSS Sandhi Puja 2026 | Ritual education and focused observance planning | Expanded 2026-10-05; canonical Sandhi Puja explainer |
 | `/dhunuchi-naach-durga-puja/` | Dhunuchi Naach Bangalore 2026 | Dhunuchi competition BSS, Dhaker Tale Bangalore | Tradition and evening visit planning | Expanded 2026-10-03; canonical Dhunuchi guide |
 | `/sindoor-khela-durga-puja/` | Sindoor Khela Bangalore 2026 | Sindhur Khela Bangalore, BSS Bijoya Dashami schedule | Tradition and Dashami visit planning | Expanded 2026-10-02; canonical Dashami guide |
 | `/dhamail-sylheti-tradition/` | Dhamail Dance Bangalore 2026 | Sylheti Dhamail, Dhamail of Unity BSS | Sylheti culture and Navami visit planning | Expanded 2026-10-04; canonical Dhamail guide |
@@ -44,7 +44,7 @@ This internal map assigns one primary search intent to each indexable page. New 
 - Keep Sindoor/Sindhur Khela and Bijoya Dashami visitor planning on `/sindoor-khela-durga-puja/`; do not create a second Dashami page.
 - Keep cultural programme aggregation on `/durga-puja-cultural-programmes-bangalore-2026/`.
 - Keep Dhunuchi meaning and competition-specific visit planning on `/dhunuchi-naach-durga-puja/`; retain the complete multi-day programme on the cultural guide.
-- Keep Sandhi Puja meaning on the educational page and the confirmed BSS timing on the Ashtami and schedule guides.
+- Keep Sandhi Puja meaning and the focused BSS observance context on `/sandhi-puja-meaning/`; keep the complete 18–19 October visit plan on `/ashtami-puja-bangalore-2026/` and the six-day timetable on the schedule page.
 - Keep Dhamail meaning, Sylheti cultural context and Dhamail-specific visit planning on `/dhamail-sylheti-tradition/`; keep the full Navami timetable on `/navami-puja-bangalore-2026/`.
 - Combine nearby East Bengaluru localities into one useful guide rather than producing locality doorway pages.
 - Keep newcomer questions and first-visit planning on `/first-time-durga-puja-bangalore/`; keep broad Bangalore discovery on the primary 2026 guide.
