@@ -22,7 +22,7 @@ This internal map assigns one primary search intent to each indexable page. New 
 | `/dhunuchi-naach-durga-puja/` | Dhunuchi Naach Bangalore 2026 | Dhunuchi competition BSS, Dhaker Tale Bangalore | Tradition and evening visit planning | Expanded 2026-10-03; canonical Dhunuchi guide |
 | `/sindoor-khela-durga-puja/` | Sindoor Khela Bangalore 2026 | Sindhur Khela Bangalore, BSS Bijoya Dashami schedule | Tradition and Dashami visit planning | Expanded 2026-10-02; canonical Dashami guide |
 | `/dhamail-sylheti-tradition/` | Dhamail Dance Bangalore 2026 | Sylheti Dhamail, Dhamail of Unity BSS | Sylheti culture and Navami visit planning | Expanded 2026-10-04; canonical Dhamail guide |
-| `/mahalaya-to-bijoya-durga-puja-days/` | Durga Puja days explained | Mahalaya to Bijoya | Festival education | Published |
+| `/mahalaya-to-bijoya-durga-puja-days/` | Durga Puja days explained | Mahalaya to Bijoya meaning, Shashthi to Dashami explained | Festival education and day selection | Expanded 2026-10-05; canonical Puja-days explainer |
 | `/why-we-celebrate-durga-puja/` | Why Durga Puja is celebrated | Durga Puja story and meaning | Festival education | Published |
 | `/first-time-durga-puja-bangalore/` | First Durga Puja in Bangalore | What to expect at Durga Puja, first-time pandal visit | New visitor help and attendance planning | Expanded 2026-10-02; canonical newcomer guide |
 | `/stories.html` | BSS Puja stories and guides | Durga Puja Bangalore content hub | Content discovery | Published |
@@ -47,5 +47,6 @@ This internal map assigns one primary search intent to each indexable page. New 
 - Keep Sandhi Puja meaning and the focused BSS observance context on `/sandhi-puja-meaning/`; keep the complete 18–19 October visit plan on `/ashtami-puja-bangalore-2026/` and the six-day timetable on the schedule page.
 - Keep Dhamail meaning, Sylheti cultural context and Dhamail-specific visit planning on `/dhamail-sylheti-tradition/`; keep the full Navami timetable on `/navami-puja-bangalore-2026/`.
 - Combine nearby East Bengaluru localities into one useful guide rather than producing locality doorway pages.
+- Keep Durga Puja day meanings and the Mahalaya-to-Bijoya cultural sequence on `/mahalaya-to-bijoya-durga-puja-days/`; keep exact timing lookup on the schedule page and practical newcomer questions on `/first-time-durga-puja-bangalore/`.
 - Keep newcomer questions and first-visit planning on `/first-time-durga-puja-bangalore/`; keep broad Bangalore discovery on the primary 2026 guide.
 - Use `/sylheti-durga-puja-bangalore/` for Sylheti and Bengali cultural/entity intent.
