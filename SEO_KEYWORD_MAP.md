@@ -9,8 +9,8 @@ This internal map assigns one primary search intent to each indexable page. New 
 | `/` | BSS Durga Puja | Bengaluru Sreehatta Sammelani, BSS Durga Puja 2026 | Brand and visit | Core homepage |
 | `/durga-puja-bangalore-2026/` | Durga Puja Bangalore 2026 | Durga Puja in Bangalore 2026, dates, venue, visitor guide | Primary discovery | Expanded 2026-10-01; primary non-brand discovery page |
 | `/sylheti-durga-puja-bangalore/` | Sylheti Durga Puja Bangalore 2026 | Bengali Durga Puja Bangalore, Bengaluru Sreehatta Sammelani | Cultural, entity and visit planning | Expanded 2026-10-07; canonical Sylheti and Bengali culture guide |
-| `/durga-puja-hoodi-whitefield/` | Durga Puja Hoodi and Whitefield | East Bangalore, KR Puram, ITPL, Marathahalli | Local discovery and visit planning | Expanded 2026-09-29; preferred grouped local page |
-| `/durga-puja-near-whitefield/` | Durga Puja near Whitefield | Durga Puja near me Whitefield | Local visit | Published; avoid another Whitefield doorway |
+| `/durga-puja-hoodi-whitefield/` | Durga Puja Hoodi and Whitefield 2026 | Durga Puja near Whitefield, East Bangalore, KR Puram, ITPL, Marathahalli | Local discovery, directions and visit planning | Expanded 2026-10-07; canonical grouped East Bengaluru guide |
+| `/durga-puja-near-whitefield/` | Legacy near-Whitefield URL | Consolidated into the grouped local guide | Redirect | Permanently redirected 2026-10-07 to `/durga-puja-hoodi-whitefield/` |
 | `/bss-durga-puja-2026-schedule/` | BSS Durga Puja schedule | Durga Puja 2026 dates Bangalore, full programme, ritual and cultural timings | Planning | Expanded 2026-09-30; canonical timing source |
 | `/ashtami-puja-bangalore-2026/` | Ashtami Puja Bangalore 2026 | BSS Ashtami schedule, Sandhi Puja Bangalore 2026 | Ashtami day planning | Published 2026-09-30 |
 | `/navami-puja-bangalore-2026/` | Navami Puja Bangalore 2026 | Maha Navami Bangalore, BSS Navami timings | Navami day planning | Published 2026-10-01 |
@@ -42,11 +42,12 @@ This internal map assigns one primary search intent to each indexable page. New 
 - Keep Bhog timing, meaning and afternoon visitor planning on `/durga-puja-bhog-bangalore/`; do not create menu or pass pages until BSS confirms those details.
 - Keep Navami visit planning on `/navami-puja-bangalore-2026/`; retain the complete six-day timetable on the schedule page.
 - Keep Sindoor/Sindhur Khela and Bijoya Dashami visitor planning on `/sindoor-khela-durga-puja/`; do not create a second Dashami page.
-- Keep cultural programme aggregation on `/durga-puja-cultural-programmes-bangalore-2026/`.\n- Keep Dandiya dates, timings and evening visit planning on `/dandiya-night-whitefield-2026/`; keep the complete multi-day programme on the cultural programme and schedule pages.
+- Keep cultural programme aggregation on `/durga-puja-cultural-programmes-bangalore-2026/`.
+- Keep Dandiya dates, timings and evening visit planning on `/dandiya-night-whitefield-2026/`; keep the complete multi-day programme on the cultural programme and schedule pages.
 - Keep Dhunuchi meaning and competition-specific visit planning on `/dhunuchi-naach-durga-puja/`; retain the complete multi-day programme on the cultural guide.
 - Keep Sandhi Puja meaning and the focused BSS observance context on `/sandhi-puja-meaning/`; keep the complete 18–19 October visit plan on `/ashtami-puja-bangalore-2026/` and the six-day timetable on the schedule page.
 - Keep Dhamail meaning, Sylheti cultural context and Dhamail-specific visit planning on `/dhamail-sylheti-tradition/`; keep the full Navami timetable on `/navami-puja-bangalore-2026/`.
-- Combine nearby East Bengaluru localities into one useful guide rather than producing locality doorway pages.
+- Keep Hoodi, Whitefield, KR Puram, ITPL, Marathahalli and East Bengaluru local discovery on `/durga-puja-hoodi-whitefield/`; redirect overlapping locality URLs instead of producing doorway pages.
 - Keep the broad reason for celebrating Durga Puja, the Mahishasura story and homecoming meaning on `/why-we-celebrate-durga-puja/`; keep the day-by-day cultural sequence on `/mahalaya-to-bijoya-durga-puja-days/`.
 - Keep Durga Puja day meanings and the Mahalaya-to-Bijoya cultural sequence on `/mahalaya-to-bijoya-durga-puja-days/`; keep exact timing lookup on the schedule page and practical newcomer questions on `/first-time-durga-puja-bangalore/`.
 - Keep newcomer questions and first-visit planning on `/first-time-durga-puja-bangalore/`; keep broad Bangalore discovery on the primary 2026 guide.
