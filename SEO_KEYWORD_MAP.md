@@ -8,7 +8,7 @@ This internal map assigns one primary search intent to each indexable page. New 
 |---|---|---|---|---|
 | `/` | BSS Durga Puja | Bengaluru Sreehatta Sammelani, BSS Durga Puja 2026 | Brand and visit | Core homepage |
 | `/durga-puja-bangalore-2026/` | Durga Puja Bangalore 2026 | Durga Puja in Bangalore 2026, dates, venue, visitor guide | Primary discovery | Expanded 2026-10-01; primary non-brand discovery page |
-| `/sylheti-durga-puja-bangalore/` | Sylheti Durga Puja Bangalore | Bengali Durga Puja Bangalore, BSS culture | Cultural and entity | Published |
+| `/sylheti-durga-puja-bangalore/` | Sylheti Durga Puja Bangalore 2026 | Bengali Durga Puja Bangalore, Bengaluru Sreehatta Sammelani | Cultural, entity and visit planning | Expanded 2026-10-07; canonical Sylheti and Bengali culture guide |
 | `/durga-puja-hoodi-whitefield/` | Durga Puja Hoodi and Whitefield | East Bangalore, KR Puram, ITPL, Marathahalli | Local discovery and visit planning | Expanded 2026-09-29; preferred grouped local page |
 | `/durga-puja-near-whitefield/` | Durga Puja near Whitefield | Durga Puja near me Whitefield | Local visit | Published; avoid another Whitefield doorway |
 | `/bss-durga-puja-2026-schedule/` | BSS Durga Puja schedule | Durga Puja 2026 dates Bangalore, full programme, ritual and cultural timings | Planning | Expanded 2026-09-30; canonical timing source |
@@ -50,4 +50,4 @@ This internal map assigns one primary search intent to each indexable page. New 
 - Keep the broad reason for celebrating Durga Puja, the Mahishasura story and homecoming meaning on `/why-we-celebrate-durga-puja/`; keep the day-by-day cultural sequence on `/mahalaya-to-bijoya-durga-puja-days/`.
 - Keep Durga Puja day meanings and the Mahalaya-to-Bijoya cultural sequence on `/mahalaya-to-bijoya-durga-puja-days/`; keep exact timing lookup on the schedule page and practical newcomer questions on `/first-time-durga-puja-bangalore/`.
 - Keep newcomer questions and first-visit planning on `/first-time-durga-puja-bangalore/`; keep broad Bangalore discovery on the primary 2026 guide.
-- Use `/sylheti-durga-puja-bangalore/` for Sylheti and Bengali cultural/entity intent.
+- Use `/sylheti-durga-puja-bangalore/` for Sylheti and Bengali cultural, Bengaluru Sreehatta Sammelani entity and community visit intent; keep exact timing lookup on the schedule page.
