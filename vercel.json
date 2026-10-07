@@ -21,6 +21,11 @@
       "permanent": true
     },
     {
+      "source": "/durga-puja-near-whitefield/",
+      "destination": "/durga-puja-hoodi-whitefield/",
+      "permanent": true
+    },
+    {
       "source": "/gallery/",
       "destination": "/archive/",
       "permanent": true
